@@ -1,4 +1,4 @@
-package edu.ricardobraga.collectionsDesafios.carrinhoDeCompras;
+package edu.ricardobraga.collectionsDesafios.operacoesBasicas.carrinhoDeCompras;
 
 public class Item {
     private String nome;

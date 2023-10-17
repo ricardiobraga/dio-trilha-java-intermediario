@@ -1,4 +1,4 @@
-package edu.ricardobraga.collectionsDesafios.carrinhoDeCompras;
+package edu.ricardobraga.collectionsDesafios.operacoesBasicas.carrinhoDeCompras;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package edu.ricardobraga.collectionsDesafios.listaDeTarefas;
+package edu.ricardobraga.collectionsDesafios.operacoesBasicas.listaDeTarefas;
 
 import java.util.ArrayList;
 import java.util.List;

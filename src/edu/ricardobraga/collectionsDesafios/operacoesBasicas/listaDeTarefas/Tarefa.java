@@ -1,4 +1,4 @@
-package edu.ricardobraga.collectionsDesafios.listaDeTarefas;
+package edu.ricardobraga.collectionsDesafios.operacoesBasicas.listaDeTarefas;
 
 public class Tarefa {
     private String descricao;
